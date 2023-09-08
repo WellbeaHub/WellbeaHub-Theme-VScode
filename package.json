@@ -17,5 +17,9 @@
         "path": "./themes/WellbeaHub-Theme-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WellbeaHub/WellbeaHub-Theme-VScode.git"
   }
 }
