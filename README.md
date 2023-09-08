@@ -2,8 +2,6 @@
 
 The WellbeaHub theme is designed for Visual Studio Code, providing a coding experience that is pleasant and easy on the eyes, especially during long coding sessions.
 
-![Screenshot of the theme](screenshots/ScreenShot.png)
-
 ## Features
 
 - A carefully chosen dark color palette to reduce eye strain.
