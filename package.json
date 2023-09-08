@@ -1,0 +1,21 @@
+{
+  "name": "wellbeahub-theme",
+  "displayName": "WellbeaHub-Theme",
+  "description": "WellbeaHub Theme for Visual Studio Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "WellbeaHub-Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/WellbeaHub-Theme-color-theme.json"
+      }
+    ]
+  }
+}
