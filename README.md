@@ -23,14 +23,14 @@ To install the WellbeaHub Theme, follow these steps:
 
 Once installed, you can further personalize the theme through your own settings in `settings.json`. Here's an example of how you can change some settings:
 
-\```json
+```json
 "workbench.colorCustomizations": {
 "[WellbeaHub Theme]": {
 "sideBar.background": "#0c0517",
 // ... (and so on for other customizations)
 }
 }
-\```
+```
 
 ## Contributions
 
