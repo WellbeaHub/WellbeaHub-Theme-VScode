@@ -1,4 +1,5 @@
 {
+  "publisher": "WellbeaHub",
   "name": "wellbeahub-theme",
   "displayName": "WellbeaHub-Theme",
   "description": "WellbeaHub Theme for Visual Studio Code",
